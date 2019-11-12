@@ -12,6 +12,8 @@ https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-recognized-environ
 
 https://ss64.com/vb
 
+https://en.wikipedia.org/wiki/Windows_Script_Host
+
 **Batch UAC - Admin**
 
 https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file
